@@ -9,6 +9,7 @@ Feature : <br>
 -Delete photo (only user can delete their own photo) <br> 
 -Profile page secured. If user not logged in can't go to profile page<br>
 -Database mlab<br>
+-.env buat googlebucket sama secretkey
 
 
 
