@@ -11,6 +11,3 @@ Feature : <br>
 -Database mlab<br>
 -.env buat googlebucket sama secretkey
 
-
-
-
